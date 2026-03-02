@@ -1,2 +1,2 @@
-# App 07 Button
-- Proves amb Button
+# App 08 ProgressBar
+- Proves amb ProgressBar
